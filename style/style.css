@@ -47,6 +47,10 @@
     font-size: 20px;
 }
 
+.text-center{
+    text-align: center;
+}
+
 /* Header section */
 
 .header{
@@ -110,7 +114,7 @@
 
 /* main section */
 
-main{
+main section{
     max-width: 1140px;
     margin: 130px auto;
 }
@@ -143,4 +147,22 @@ main{
 
 .about-block{
     background-color: white;
+}
+
+/* My skill section */
+
+.skill-container{
+    display: flex;
+    gap: 24px;
+    margin-top: 50px;
+}
+
+.skill-list{
+    padding: 30px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    
+}
+.skill-details{
+    padding: 0px 115px;
 }
