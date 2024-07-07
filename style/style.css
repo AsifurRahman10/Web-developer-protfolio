@@ -166,3 +166,33 @@ main section{
 .skill-details{
     padding: 0px 115px;
 }
+
+.resume-details{
+    display: flex;
+    gap: 24px;
+}
+
+.my-resume .resume-title{
+    text-align: center;
+    font-size: 35px;
+}
+
+.resume-heading{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.resume-type{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+}
+
+.resume-description{
+    font-size: 16px;
+    color: #757575;
+}
+
+.cv-button{
+    margin-top: 50px;
+}
