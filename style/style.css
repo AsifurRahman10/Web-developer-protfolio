@@ -241,10 +241,16 @@ footer input[type = "text"], footer input[type = "email"], footer textarea{
 
     .nav-list{
         gap: 20px;
-        padding: 0px; 
+        padding: 0px;
+;
+    }
+    .banner-info .btn{
+        margin: 10px;
     }
     
-
+    #nav-bar li a{
+        margin-right: 0px;
+    }
     .banner{
         margin: 0 20px;
     }
